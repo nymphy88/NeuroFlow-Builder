@@ -1,0 +1,5 @@
+{
+  "name": "NeuroFlow Builder",
+  "description": "A visual logic designer for Reinforcement Learning environments with real-time analytics and LLM insights.",
+  "requestFramePermissions": []
+}
